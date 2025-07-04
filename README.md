@@ -139,8 +139,15 @@ Measures
 - `Bonus Amount = IF('Employee'[Rating] > 3, 'Employee'[Salary] * 0.1, 0)`
 - `Total Amount to be Paid = 'Employee'[Salary] + 'Bonus Amount'
 
-
 ##  Result
+
+![3 case 1](https://github.com/user-attachments/assets/228a706c-94bc-4f53-b8cc-3e254621466d)
+
+![3 case 2](https://github.com/user-attachments/assets/1c3e17f6-a7e1-4ae7-84a7-4523a56109d1)
+
+![3 case 3](https://github.com/user-attachments/assets/79b19ed6-81bd-49c2-ae0c-2283b83c17a8)
+
+![3 case 4](https://github.com/user-attachments/assets/b16e7e32-5fce-49f0-9c55-c74b8f4fd1b6)
 
 
 ## Recommendations
