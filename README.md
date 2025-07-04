@@ -9,7 +9,7 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [My Data Analysis](#my-data-analysis)
 - [Results](#results)
-- [Recommendation](#recommendations)
+- [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
 
 
