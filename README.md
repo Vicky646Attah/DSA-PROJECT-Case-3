@@ -9,6 +9,7 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [My Data Analysis](#my-data-analysis)
 - [Results](#results)
+- [Limitation](#limitation)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
 
@@ -174,6 +175,11 @@ Gender pay gap is analyzed as pay gap(%)= male pay -Female Pay/male pay*100
 
 5.Total Bonus Amount payout by region, 11.2 +11.1 + 7.5 = 29.8
 
+## Limitations
+1. Missing Gender Entries: Missing gender entries has affected the accuracy of the gender-based analysis and may affect pay gap.
+2. Salary Structure Complexity: The data includes bands and bonuses, but without clear role or experience levels, its hard to determine whether pay differences are due to gender or job function.
+
+
 ## Recommendations
 1. Improve Gender balance in some departments
 2. Audit performance rating to check fairness by gender
@@ -181,11 +187,6 @@ Gender pay gap is analyzed as pay gap(%)= male pay -Female Pay/male pay*100
 4. Conduct a deep review of salaries vs gender by role and level
 5. improve data completeness to support future analysis.
    
-
-## Limitations
-1. Missing Gender Entries: Missing gender entries has affected the accuracy of the gender-based analysis and may affect pay gap.
-2. Salary Structure Complexity: The data includes bands and bonuses, but without clear role or experience levels, its hard to determine whether pay differences are due to gender or job function.
-
 
 ## Conclusion
 
