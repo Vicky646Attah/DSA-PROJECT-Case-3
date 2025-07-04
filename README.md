@@ -184,6 +184,7 @@ Gender pay gap is analyzed as pay gap(%)= male pay -Female Pay/male pay*100
 2. Salary Structure Complexity: The data includes bands and bonuses, but without clear role or experience levels, its hard to determine whether pay differences are due to gender or job function.
 
 
-Conclusion
+## Conclusion
+
 The analysis reveals potential gender disparity in salary, particuarly in the legal department in Abuja, where male appear to significantly earn more than than their female counterparts. while the sales department shows more balance, the presence of "Not Disclosed" gender entries suggests the need for better demorgraphic data practices. 
 
