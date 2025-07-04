@@ -8,7 +8,7 @@
 - [Data Cleanng Preparation](#data-cleaning-preparation-)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [My Data Analysis](#my-data-analysis)
-- [Results](#results)
+- [Results](#result)
 - [Recommendation](#recommendation)
 - [Conclusion](#conclusion)
 
