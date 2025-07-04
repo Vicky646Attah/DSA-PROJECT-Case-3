@@ -4,12 +4,12 @@
 ## Topic: Palmora Group HR Analysis
 
 
-- [Palmora Case Study Overview](#palmyora-case-study-overview)
-- [Data Cleanng Preparation](#data-cleaning-preparation-)
+- [Palmora Case Study Overview](#palmora-case-study-overview)
+- [Data Cleanng Preparation](#data-cleaning-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [My Data Analysis](#my-data-analysis)
 - [Results](#results)
-- [Recommendation](#recommendation)
+- [Recommendation](#recommendations)
 - [Conclusion](#conclusion)
 
 
@@ -139,20 +139,51 @@ Measures
 - `Bonus Amount = IF('Employee'[Rating] > 3, 'Employee'[Salary] * 0.1, 0)`
 - `Total Amount to be Paid = 'Employee'[Salary] + 'Bonus Amount'
 
-##  Result
+##  Results
 
 ![3 case 1](https://github.com/user-attachments/assets/228a706c-94bc-4f53-b8cc-3e254621466d)
 
+
 ![3 case 2](https://github.com/user-attachments/assets/1c3e17f6-a7e1-4ae7-84a7-4523a56109d1)
+
 
 ![3 case 3](https://github.com/user-attachments/assets/79b19ed6-81bd-49c2-ae0c-2283b83c17a8)
 
+
 ![3 case 4](https://github.com/user-attachments/assets/b16e7e32-5fce-49f0-9c55-c74b8f4fd1b6)
 
+## Insight On Analysis:
+1. the chart the total Gender is 946 of which 465 are male constituting 49.15% and number of females are 441 out of 946 constituting 46.62%. However, the 40 employee did not disclose their gender.
+By analysis you will know that male are more than female 5.16%
+Given the gender distribution, there is insignificant gender inequality in all the region.
+The highest number of Males can be found in the legal department followed by production while the lowest number of male is in the research department.
+The highest number of females is in services department followed by human resources department and business while the lowest number of female is in the accounting department. The highest number of not disclosed is in the engineering department.
+
+2. Looking at the chat, of the 441 females, 165 are in kaduna region, 158 are in abuja region and 118 are in Lagos. The distribution of Male to Female in Abuja is almost Equal. In kaduna, we have more male to female at a difference. The employee that did not disclose their gender is more in abuja than in kaduna and lagos.  The gender is not evenly distributed, but there are noted sign of gender inequality because of the minimal difference.
+
+3.The total salary for all the region amounts to 70 Million dollar and the average salary pay is 73,700 thousand.
+Gender pay gap is analyzed as pay gap(%)= male pay -Female Pay/male pay*100
+    74,800-72,100/74,800*100=3.60%
+   from the calculation, male salary is slightly more than female salary. which shows that pay is not equal and there is a difference which should be corrected immediately.
+   It is also observed based on chart that in Abuja, Legal department, males have above 90,000 salaries than than females which is under 80,000. that means Legal department in Abuja should be focused on in terms of gender eqaulity.
+
+4.I would say that palmora does not meet the requirement based on the visible data and chart. from the chart it is obvious that many employees earn less than $90,000   
+
+5.Total Bonus Amount payout by region, 11.2 +11.1 + 7.5 = 29.8
 
 ## Recommendations
+1. Improve Gender balance in some departments
+2. Audit performance rating to check fairness by gender
+3. Investigate pay gap in Legal especially in Abuja
+4. Conduct a deep review of salaries vs gender by role and level
+5. improve data completeness to support future analysis.
+   
 
+## Limitations
+1. Missing Gender Entries: Missing gender entries has affected the accuracy of the gender-based analysis and may affect pay gap.
+2. Salary Structure Complexity: The data includes bands and bonuses, but without clear role or experience levels, its hard to determine whether pay differences are due to gender or job function.
 
 
 Conclusion
+The analysis reveals potential gender disparity in salary, particuarly in the legal department in Abuja, where male appear to significantly earn more than than their female counterparts. while the sales department shows more balance, the presence of "Not Disclosed" gender entries suggests the need for better demorgraphic data practices. 
 
