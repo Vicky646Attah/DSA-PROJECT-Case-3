@@ -4,11 +4,11 @@
 ## Topic: Palmora Group HR Analysis
 
 
-- [Palmora Case Study overview](#palmyora-case-study-overview)
+- [Palmora Case Study Overview](#palmyora-case-study-overview)
 - [Data Cleanng Preparation](#data-cleaning-preparation-)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [My Data Analysis](#my-data-analysis)
-- [Results](#result)
+- [Results](#results)
 - [Recommendation](#recommendation)
 - [Conclusion](#conclusion)
 
